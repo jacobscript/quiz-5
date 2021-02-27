@@ -1,1 +1,1 @@
-Random Quiz Application using by HTML CSS Javascript
+Random Quiz Application with HTML CSS Javascript
